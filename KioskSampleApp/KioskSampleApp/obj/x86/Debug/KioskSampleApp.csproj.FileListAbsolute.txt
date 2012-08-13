@@ -1,0 +1,11 @@
+C:\Users\Anthonyb\Documents\me\tech\prototyping\wpf\KioskSampleApp\KioskSampleApp\bin\Debug\KioskSampleApp.exe
+C:\Users\Anthonyb\Documents\me\tech\prototyping\wpf\KioskSampleApp\KioskSampleApp\bin\Debug\KioskSampleApp.pdb
+C:\Users\Anthonyb\Documents\me\tech\prototyping\wpf\KioskSampleApp\KioskSampleApp\obj\x86\Debug\MainWindow.baml
+C:\Users\Anthonyb\Documents\me\tech\prototyping\wpf\KioskSampleApp\KioskSampleApp\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Anthonyb\Documents\me\tech\prototyping\wpf\KioskSampleApp\KioskSampleApp\obj\x86\Debug\App.g.cs
+C:\Users\Anthonyb\Documents\me\tech\prototyping\wpf\KioskSampleApp\KioskSampleApp\obj\x86\Debug\KioskSampleApp_MarkupCompile.cache
+C:\Users\Anthonyb\Documents\me\tech\prototyping\wpf\KioskSampleApp\KioskSampleApp\obj\x86\Debug\KioskSampleApp.g.resources
+C:\Users\Anthonyb\Documents\me\tech\prototyping\wpf\KioskSampleApp\KioskSampleApp\obj\x86\Debug\KioskSampleApp.Properties.Resources.resources
+C:\Users\Anthonyb\Documents\me\tech\prototyping\wpf\KioskSampleApp\KioskSampleApp\obj\x86\Debug\KioskSampleApp.csproj.GenerateResource.Cache
+C:\Users\Anthonyb\Documents\me\tech\prototyping\wpf\KioskSampleApp\KioskSampleApp\obj\x86\Debug\KioskSampleApp.exe
+C:\Users\Anthonyb\Documents\me\tech\prototyping\wpf\KioskSampleApp\KioskSampleApp\obj\x86\Debug\KioskSampleApp.pdb
